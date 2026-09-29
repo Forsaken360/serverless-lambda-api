@@ -1,1 +1,3 @@
-# placeholder
+# boto3 is included in the Lambda Python 3.12 runtime; listed here for
+# local development and IDE clarity.
+boto3>=1.34
